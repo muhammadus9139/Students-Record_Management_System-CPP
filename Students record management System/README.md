@@ -38,7 +38,7 @@ This project demonstrates practical implementation of C++ basics, modular progra
    Functions and Modular Programming
 
 
-🛠️ Technologies & Tools
++Technologies & Tools
 
 Programming Language: C++
 
@@ -47,7 +47,7 @@ Compiler: GCC / MinGW
 IDE: Dev-C++, Code::Blocks, Visual Studio
 
 
-🎯 Learning Outcomes
++Learning Outcomes
 
 Understand basic file handling in C++
 
@@ -58,7 +58,7 @@ Improve understanding of data organization and record management
 Strengthen foundational C++ programming skills
 
 
-📚 Future Improvements (Optional)
++Future Improvements (Optional)
 
 Replace file handling with database support
 
@@ -69,6 +69,6 @@ Implement login/authentication system
 Convert to GUI-based application
 
 
-📄License
++License
 
 This project is developed for educational purposes and is open for learning and modification.
