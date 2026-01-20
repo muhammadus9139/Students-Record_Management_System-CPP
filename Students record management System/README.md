@@ -27,15 +27,16 @@ This project demonstrates practical implementation of C++ basics, modular progra
 
 🧩 Concepts Implemented
 
-Object-Oriented Programming (Classes & Objects)
++Object-Oriented Programming (Classes & Objects)
 
-File Handling using fstream
+   File Handling using fstream
 
-Arrays / Structures
+   Arrays / Structures
 
-Conditional Statements and Loops
+   Conditional Statements and Loops
 
-Functions and Modular Programming
+   Functions and Modular Programming
+
 
 🛠️ Technologies & Tools
 
@@ -43,20 +44,8 @@ Programming Language: C++
 
 Compiler: GCC / MinGW
 
-IDE: Code::Blocks, Dev-C++, Visual Studio
+IDE: Dev-C++, Code::Blocks, Visual Studio
 
-▶️ How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/your-username/student-record-management-system.git
-
-
-Open the project in your preferred C++ IDE.
-
-Compile and run the program.
-
-Use the menu-driven interface to manage student records.
 
 🎯 Learning Outcomes
 
@@ -67,6 +56,7 @@ Learn how to design menu-driven console applications
 Improve understanding of data organization and record management
 
 Strengthen foundational C++ programming skills
+
 
 📚 Future Improvements (Optional)
 
