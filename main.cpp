@@ -423,3 +423,4 @@ char calculateGrade(float totalMarks) {
         cout << "Invalid total marks";
     }
 }
+
